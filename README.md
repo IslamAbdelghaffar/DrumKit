@@ -1,6 +1,6 @@
 # Drum Kit
 A small website to play music using Drum kits.
-
+![](images/Drumkit.png)
 # Languages used
 + HTML5
 + CSS
